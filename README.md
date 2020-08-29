@@ -1,4 +1,4 @@
-<img align='center' src='https://cultofthepartyparrot.com/parrots/portalparrot.gif' width='250"'>
+<img align='center' src='https://cultofthepartyparrot.com/parrots/portalparrot.gif' width='300"'>
 
 [![X-NEWBIE github stats](https://github-readme-stats.vercel.app/api?username=X-Newbie)](https://github.com/X-Newbie)
 
