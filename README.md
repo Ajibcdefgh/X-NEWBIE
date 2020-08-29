@@ -1,6 +1,3 @@
-# Profile Me
-
-<img align='centre' src='https://drive.google.com/uc?id=11ec_Cecl2QNsvanmij-HeN-gAF1cS5mb&export=download' width='500"'>
 
 [![X-NEWBIE github stats](https://github-readme-stats.vercel.app/api?username=X-Newbie)](https://github.com/X-Newbie)
 
@@ -9,6 +6,4 @@
 ➪ [XNEWBIE Telegram Channel](https://t.me/XBOT_SUPPORT)
 
 
-
-
-<img align='centre' src='https://telegra.ph/file/895ef39e6bb761a8c25ad.jpg' width='500"'>
+<img align='centre' src='https://telegra.ph/file/895ef39e6bb761a8c25ad.jpg' width='350"'>
