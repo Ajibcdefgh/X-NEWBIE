@@ -1,6 +1,6 @@
 # Profile Me
 
-<img align='centre' src='https://telegra.ph/file/4d8d9afc4be1a2b86d64e.mp4' width='500"'>
+<img align='centre' src='https://t.me/c/1188814263/7217' width='500"'>
 
 [![X-NEWBIE github stats](https://github-readme-stats.vercel.app/api?username=X-Newbie)](https://github.com/X-Newbie)
 
