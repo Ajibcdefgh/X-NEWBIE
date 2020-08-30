@@ -1,7 +1,7 @@
 <img align='center' src='https://cultofthepartyparrot.com/parrots/portalparrot.gif' width='300"'>
 
 <h1 align="center"><b>Github Stats :</b></h1><br>
-[![X-NEWBIE github stats](https://github-readme-stats.vercel.app/api?username=X-Newbie)](https://github.com/X-Newbie)
+<p align="center"><a href="https://github.com/X-Newbie"><img src="https://github-readme-stats.vercel.app/api?username=X-Newbie"></a></p>
 <p align="center"><a href="https://github.com/X-Newbie"><img src="https://github-readme-stats.vercel.app/api?username=X-Newbie&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/X-Newbie"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=X-Newbie&theme=radical&layout=compact"></a></p>
 
