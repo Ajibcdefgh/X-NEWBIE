@@ -4,8 +4,5 @@
 <p align="center"><a href="https://github.com/X-Newbie"><img src="https://github-readme-stats.vercel.app/api?username=X-Newbie"></a></p>
 <p align="center"><a href="https://github.com/X-Newbie"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=X-Newbie&theme=radical&layout=compact"></a></p>
 
-➪ [XNEWBIE Telegram Channel](https://t.me/XBOT_SUPPORT)
-
 <img align='center' src='https://cultofthepartyparrot.com/parrots/portalparrot.gif' width='300"'>
-
-<img align='centre' src='https://telegra.ph/file/895ef39e6bb761a8c25ad.jpg' width='350"'>
+➪ [XNEWBIE Telegram Channel](https://t.me/XBOT_SUPPORT)
