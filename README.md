@@ -5,4 +5,5 @@
 <p align="center"><a href="https://github.com/X-Newbie"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=X-Newbie&theme=radical&layout=compact"></a></p>
 
 <img align='center' src='https://cultofthepartyparrot.com/parrots/portalparrot.gif' width='300"'>
+
 ➪ [XNEWBIE Telegram Channel](https://t.me/XBOT_SUPPORT)
