@@ -6,4 +6,6 @@
 
 <img align='center' src='https://cultofthepartyparrot.com/parrots/portalparrot.gif' width='300"'>
 
+<p align="center">
 ➪       [TELEGRAM CHANNEL](https://t.me/XBOT_SUPPORT)
+</p>
