@@ -6,4 +6,4 @@
 
 <img align='center' src='https://cultofthepartyparrot.com/parrots/portalparrot.gif' width='300"'>
 
-➪ [XNEWBIE Telegram Channel](https://t.me/XBOT_SUPPORT)
+➪       [TELEGRAM CHANNEL](https://t.me/XBOT_SUPPORT)
