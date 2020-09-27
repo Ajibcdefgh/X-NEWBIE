@@ -4,8 +4,4 @@
 <p align="center"><a href="https://github.com/X-Newbie"><img src="https://github-readme-stats.vercel.app/api?username=X-Newbie"></a></p>
 <p align="center"><a href="https://github.com/X-Newbie"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=X-Newbie&theme=radical&layout=compact"></a></p>
 
-<p align="center"><a href="https://github.com/X-Newbie"><img src='https://cultofthepartyparrot.com/parrots/portalparrot.gif' width='300"'"></a></p>
-
-<p align="center">XBOT CHANNEL</p>
 <p align="center"><a href="https://t.me/XBOT_SUPPORT">   <img src="https://img.shields.io/badge/JOIN%20CHANNEL-blueviolet?style=flat&logo" width="210" height="34.45" /></a>
-<br>
