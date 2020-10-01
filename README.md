@@ -1,6 +1,6 @@
 <h1 align="center"><b>GITHUB PROFILE </b></h1><br>
 <br>
-<img align="center" alt="X LOGO" src="https://telegra.ph/file/9142e8ab1f494dc7f082d.png/>
+<img src="https://telegra.ph/file/9142e8ab1f494dc7f082d.png" />
 <a href="https://www.reddit.com/user">
   <img align="right" alt="XNewbie Reddit" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
