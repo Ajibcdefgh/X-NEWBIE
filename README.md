@@ -7,7 +7,7 @@
   <img align="right" alt="XNewbie Youtube Channel" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <a href="https://pinterest.com/adekmaulana">
-  <img align="left" alt="XNewbie Pinterest" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" />
+  <img align="right" alt="XNewbie Pinterest" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" />
 </a>
 <a href="https://t.me/X_Newbie">
   <img align="left" alt="XNewbie Telegram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
