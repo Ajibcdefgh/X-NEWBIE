@@ -27,4 +27,50 @@
 <p align="center"><a href="https://github.com/X-Newbie"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=X-Newbie&theme=radical&layout=compact"></a></p>
 <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="495px">
 
+```python3
+
+from dataclasses import dataclass
+from typing import Tuple
+
+
+class Meta(type):
+    def __new__(cls, name, bases, attrs):
+        for attr in attrs:
+            if not attr.startswith("_"):
+                __annotations__[attr] = Tuple[str, ...]
+        attrs["__annotations__"] = __annotations__
+        new_cls = super().__new__(cls, name, bases, attrs)
+        new_cls = dataclass(new_cls)
+        return new_cls
+
+
+class Stack(metaclass=Meta):
+    languages   = ("Python", "Bash")
+    ongoing     = ("C")
+
+
+print("A little more about me")
+
+xnewbie = {
+    'pronouns': 'he' or 'him' or 'his',
+    'fullname': 'X NEWBIE',
+    'nationality': ['Indonesia', 'ID'],
+    'location': 'ID',
+    'contact': {
+        'email': 'sxnewbie@gmail.com',
+        'website': 'https://gmail.com',
+    },
+    'about': [
+        'A student',
+        'A fan of python',
+        'I\'m considering myself as a runner. (even tho rarely do it) xd',
+        'Love gaming',
+        'Human.',
+        'Still don\'t know how to feel about Last of Us 2 ending'
+    ],
+    'game': ['Granado Espada', 'Blade & Soul Revolution']
+}
+```
+
+
 <p align="center"><a href="https://t.me/XBOT_SUPPORT">   <img src="https://img.shields.io/badge/JOIN%20CHANNEL-red?style=flat&logo" width="210" height="34.45" /></a>
