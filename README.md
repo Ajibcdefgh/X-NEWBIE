@@ -1,12 +1,12 @@
 <h1 align="center"><b>GITHUB PROFILE </b></h1><br>
 <img src="https://telegra.ph/file/9142e8ab1f494dc7f082d.png" />
 <a href="https://www.reddit.com/user">
-  <img align="center" alt="XNewbie Reddit" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+  <img align="right" alt="XNewbie Reddit" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 <a href="https://www.youtube.com">
   <img align="right" alt="XNewbie Youtube Channel" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="https://pinterest.com/adekmaulana">
+<a href="https://pinterest.com">
   <img align="right" alt="XNewbie Pinterest" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" />
 </a>
 <a href="https://t.me/X_Newbie">
