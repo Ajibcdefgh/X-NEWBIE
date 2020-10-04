@@ -68,9 +68,7 @@ xnewbie = {
         'Human.',
         'Still don\'t know how to feel about Last of Us 2 ending'
     ],
-    'game': ['Granado Espada', 'Blade & Soul Revolution']
-}
+    }
 ```
 
 
-<p align="center"><a href="https://t.me/XBOT_SUPPORT">   <img src="https://img.shields.io/badge/JOIN%20CHANNEL-red?style=flat&logo" width="210" height="34.45" /></a>
